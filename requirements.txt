@@ -51,7 +51,6 @@ llvmlite==0.36.0
 locket==0.2.1
 Markdown==3.3.4
 mccabe==0.6.1
-mkl-service==2.3.0
 mlxtend==0.19.0
 mpmath==1.2.1
 multipledispatch==0.6.0
