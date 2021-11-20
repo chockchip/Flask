@@ -1,9 +1,7 @@
-from flask_blog import app
+from flaskblog import create_app
 
-'''
-Everything you would like to import from package. It have to declare in the 
-package already
-'''
+app = create_app()
 
+# Command to run the application on this file
 if __name__ == '__main__':
     app.run(debug=True)
